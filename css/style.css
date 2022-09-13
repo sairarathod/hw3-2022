@@ -50,10 +50,10 @@ div{
     margin-left: 50px;
     /*border-top: 2px solid;
     border-right: 5px solid;*/
-    border-left: 5;
-    border-bottom: 2;
-    border-top: 0;
-    border-right: 0;
+    border-left: 5px solid #ffffff;
+    border-bottom: 2px solid #ffffff;
+    border-top: 0px solid #ffffff;
+    border-right: 0px solid #ffffff;
     /* border: 2px solid white; 
     border-right: 0;
     border-left: 3;*/
@@ -66,10 +66,10 @@ div{
     margin-right: 50px;
     /*border-right: 5px solid;
     border-top: 2px solid;*/
-    border-right: 5;
-    border-top: 2;
-    border-bottom: 0;
-    border-left: 0;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #ffffff;
+    border-bottom: 0px solid #ffffff;
+    border-left: 0px solid #ffffff;
     color: #C4C4C4;
 }
 
@@ -83,10 +83,10 @@ div{
     margin-left: 50px;
    /* border-bottom: 2px solid;
     border-left: 5px solid;*/
-    border-bottom: 2;
-    border-left: 5;
-    border-top: 0;
-    border-right: 0;
+    border-bottom: 2px solid #ffffff;
+    border-left: 5px solid #ffffff;
+    border-top: 0px solid #ffffff;
+    border-right: 0px solid #ffffff;
     color: #707070;
 }
 
@@ -96,24 +96,24 @@ div{
     margin-right: 50px;
    /* border-right: 5px solid ;
     border-top: 2px solid;*/
-    border-right: 5;
-    border-top: 2;
-    border-bottom: 0;
-    border-left: 0;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #ffffff;
+    border-bottom: 0px solid #ffffff;
+    border-left: 0px solid #ffffff;
 }
 
 footer{
     background-image: linear-gradient(90deg, #000000 0%, #0000ff 25%, #0066ff 70%, #000000);
+    font-size: 20px;
     text-align: right;
     padding-bottom: 15px;
     padding-right: 15px;
     padding-top: 15px;
+    padding-left: 0px;
     border: solid 5px white;
 }
-
+/*
 footer .p{
     font-size: 20px;
 }
-/*li{
-    border: solid 25px black;
-}*/
+/*
